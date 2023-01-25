@@ -22,9 +22,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&layout=compact&theme=react)](https://github.com/31mahadi/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=31mahadi&hide_border=false&theme=react)](https://github.com/31mahadi/github-readme-stats)
+[![Mahadi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=31mahadi&hide_border=false&theme=react)](https://github.com/31mahadi/github-readme-stats)
 
-[![Kamruls's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=31mahadi&theme=react&custom_title=Contribution%20Graph)](https://git.io/praveenscience)
+[![Mahadi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=31mahadi&theme=react&custom_title=Contribution%20Graph)](https://git.io/praveenscience)
 
 ###### Where to find me
 
@@ -32,15 +32,12 @@
     <a href="https://github.com/31mahadi" target="_blank">
        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/3kamrul" target="_blank">
+    <a href="https://www.linkedin.com/in/31mahadi/" target="_blank">
        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.facebook.com/3kamrul" target="_blank">
+    <a href="https://www.facebook.com/31mahadi" target="_blank">
         <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
     </a>
-    <a href="https://stackoverflow.com/users/20355867" target="_blank">
-        <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-    </a>  
 </div>
 
 <br/>  
