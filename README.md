@@ -1,6 +1,6 @@
 ## 👋 &nbsp; Hey! Nice to see you
 
-<p>Welcome to my page! </br> I'm Kamrul Islam, Fullstack developer from <img src="./icons/others/flag_bd.png" width="13" height="13" /> <b>Bangladesh.</b></p>
+<p>Welcome to my page! </br> I'm Md Mahadi Hassan, Fullstack Web App developer from <img src="./icons/others/flag_bd.png" width="13" height="13" /> <b>Dhaka, Bangladesh.</b></p>
  
 ## Things I code with
 ###### Frontend
@@ -16,11 +16,11 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&layout=compact&theme=react)](https://github.com/31mahadi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H2407&layout=compact&theme=react)](https://github.com/31mahadi/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=31mahadi&hide_border=false&theme=react)](https://github.com/31mahadi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=H2407&hide_border=false&theme=react)](https://github.com/31mahadi/github-readme-stats)
 
-[![Kamruls's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=31mahadi&theme=react&custom_title=Contribution%20Graph)](https://git.io/praveenscience)
+[![Kamruls's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=H2407&theme=react&custom_title=Contribution%20Graph)](https://git.io/praveenscience)
 
 ###### Where to find me
 
