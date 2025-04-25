@@ -1,44 +1,104 @@
-## 👋 &nbsp; Hi! Welcome to my Git Repo Home
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-logos.vercel.app/api?name=Md%20Mahadi%20Hassan&subtitle=Fullstack%20Web%20Developer%20from%20Dhaka%20🇧🇩&color=gradient&font=space+grotesk" alt="Md Mahadi Hassan Banner" />
+</p>
 
-<p>Welcome to my repo! </br> I'm Md Mahadi Hassan, Fullstack Web App developer from <img src="./icons/others/flag_bd.png" width="13" height="13" /> <b>Dhaka, Bangladesh.</b></p>
- 
-## I am comfortable with
-#### Frontend Technologies & Packages
-<img  src="./icons/frontend/javascript.svg" alt="Javascript" width="40" height="40"/> &nbsp; &nbsp; <img  src="./icons/frontend/react_js.svg" alt="ReactJS" width="45" height="40"/> &nbsp; &nbsp; <img  src="./icons/frontend/material_ui.svg" alt="Material-UI" width="40" height="40"/> &nbsp; &nbsp; <img  src="./icons/frontend/ag_grid.png" alt="Ag-Grid" width="50" height="48"/> &nbsp; &nbsp; <img  src="./icons/frontend/redux.svg" alt="Redux" width="43" height="42"/> &nbsp; &nbsp; <img  src="./icons/frontend/chart_js.svg" alt="Chart.js" width="50" height="48"/> &nbsp; &nbsp; <img  src="./icons/frontend/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> &nbsp; &nbsp; <img src="./icons/frontend/html5.svg" alt="hTML5" width="40" height="40"/> &nbsp; &nbsp; <img  src="./icons/frontend/css3.svg" alt="CSS3" width="40" height="40"/>
+<h1 align="center">👋 Hey there, I'm Md Mahadi Hassan</h1>
+<h3 align="center">A passionate Fullstack Web Developer specializing in MERN, NestJS, and scalable backend systems.</h3>
 
-#### Backend Technologies & Packages
+<p align="center">
+  <a href="https://github.com/31mahadi?tab=followers">
+    <img src="https://img.shields.io/github/followers/31mahadi?label=Followers&style=for-the-badge" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/31mahadi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/31mahadi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/>
+  </a>
+</p>
 
-<img src="./icons/backend/nodejs_with_title.svg" alt="NodeJS" width="60" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/expressjs_long.svg" alt="ExpressJS" width="60" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/sequelize_with_title.svg" alt="Sequelize" width="60" height="60"/>
+---
 
-#### Databases
+📫 **How to reach me:**
+- 📧 Email: **01.mahadi@gmail.com**
+- 🌐 Portfolio Website: [31mahadi.com](https://31mahadi.com) *(Under Construction)*
 
-<img  src="./icons/backend/sql_server_with_title.svg" alt="MSSQL" width="60" height="50"/> &nbsp; &nbsp;<img  src="./icons/backend/my_sql_transparent.svg" alt="MySql" width="60" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/mongodb_with_title.svg" alt="Mongodb" width="60" height="60"/> &nbsp; &nbsp; <img  src="./icons/backend/redis_with_title.svg" alt="Redis" width="40" height="40"/>
+---
 
-#### Others
+## 🛠️ Tech Stack
 
-<img src="./icons/others/github.svg" alt="Github" width="40" height="60"/>
+### 🎨 Frontend
+React.js Next.js Material UI Tailwind CSS Bootstrap JavaScript Zustand Redux  
+<img src="https://skillicons.dev/icons?i=react,nextjs,materialui,tailwind,bootstrap,js,redux" />
+<img src="https://skillicons.dev/icons?i=zustand" />
 
-<br/>
+### 🔧 Backend
+Node.js Express.js NestJS REST APIs GraphQL JWT Firebase  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,firebase" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&layout=compact&theme=react)](https://github.com/31mahadi/github-readme-stats)
+### 🗄️ Databases & ORMs
+PostgreSQL MySQL MongoDB Redis DB2 MS SQL Server  
+TypeORM Sequelize Prisma  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<img src="https://img.shields.io/badge/DB2-%23006DAF?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeORM-E535AB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDM2IDM2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNyAxYzguOCAwIDE2IDcuMiAxNiAxNmMwIDguOC03LjIgMTYtMTYgMTZTMCAyNS44IDAgMTdDMCw4LjIgNy4yIDEsMTcgMXptMC0xQzcuNiAwIDAgNy42IDAgMTdzNy42IDE3IDE3IDE3czE3LTcuNiAxNy0xN1MzMC40IDAgMTcgMHoiLz48L3N2Zz4=&logoColor=white" />
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
 
-[![Mahadi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=31mahadi&hide_border=false&theme=react)](https://github.com/31mahadi/github-readme-stats)
+### 🧰 Dev Tools & Platforms
+Git GitHub VS Code Vite Docker Postman Netlify Vercel Render  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,docker,postman" />
+<img src="https://skillicons.dev/icons?i=netlify,vercel" />
 
-[![Mahadi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=31mahadi&theme=react&custom_title=Contribution%20Graph)](https://git.io/praveenscience)
+---
 
-###### Where to find me
+## 📈 GitHub Activity
 
-<div align="center">
-    <a href="https://github.com/31mahadi" target="_blank">
-       <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/31mahadi/" target="_blank">
-       <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/31mahadi" target="_blank">
-        <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-    </a>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=31mahadi&theme=radical&hide_border=true" />
+</p>
 
-<br/>  
-<br/>
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=31mahadi&theme=radical" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+Explore my pinned repos below for fullstack apps, scalable APIs, and real-world use cases.
+> Built using Node/Nest, React/Next, TypeORM/Sequelize, PostgreSQL, and more.
+
+---
+
+## 🧭 Current Goal
+
+**Mastering performance-oriented web systems using Next.js, NestJS, and clean architecture patterns.**
+
+---
+
+## 💬 Ask Me About
+
+JavaScript, React, Node.js, Firebase, PostgreSQL, MongoDB, REST APIs, Authentication, DevOps, and Fullstack app architecture.
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/31mahadi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-31mahadi-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/31mahadi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-31mahadi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/31mahadi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-31mahadi-blue?style=for-the-badge&logo=facebook" />
+  </a>
+</p>
