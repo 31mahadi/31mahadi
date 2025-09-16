@@ -118,7 +118,7 @@
 
 ### 📅 Contribution Calendar
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=31mahadi&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=31mahadi&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&include_all_commits=true" alt="GitHub Streak Stats" />
 </div>
 
 ### 📈 GitHub Statistics
@@ -139,18 +139,76 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Most Commit Language" />
 </div>
 
-### 💻 Language Statistics
+### 💻 Language Statistics (Private Repo Compatible)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=10&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=My%20Languages&hide_progress=true" alt="Language Stats" />
 </div>
 
-### 🎯 **My Primary Languages** (Based on Professional Experience)
+### 📊 Language Usage Overview (Private Repo Compatible)
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-89.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-75.2%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML-45.8%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-42.3%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/SQL-38.7%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=Language%20Distribution&hide_progress=true" alt="Language Usage" />
+</div>
+
+### 🎯 **Professional Language Expertise**
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Expert" />
+  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Expert" />
+  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Expert" />
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Expert" />
+  <img src="https://img.shields.io/badge/NestJS-Expert-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Expert" />
+  <img src="https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Expert" />
+</div>
+
+ ### 📈 **Language Usage Breakdown** (Based on Professional Experience)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 45%" />
+        <br><small>Primary language for all projects</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/TypeScript-30%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 30%" />
+        <br><small>Enterprise applications & APIs</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 15%" />
+        <br><small>Frontend development</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CSS-8%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 8%" />
+        <br><small>Styling & UI components</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SQL-2%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL 2%" />
+        <br><small>Database queries & optimization</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Other-0%25-9E9E9E?style=for-the-badge&logo=code&logoColor=white" alt="Other 0%" />
+        <br><small>Configuration & scripts</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🚀 **Private Repository Language Statistics**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=10&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=My%20Language%20Usage&hide_progress=true" alt="Private Repo Language Stats" />
+</div>
+
+### 📈 **Alternative Language Visualization**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=Code%20Languages&hide_progress=true" alt="Alternative Language Stats" />
+</div>
+
+### 🔧 **Private Repository Solution**
+<div align="center">
+  <h4>📝 To show language data from private repos:</h4>
+  <p><strong>1. Enable Private Contributions:</strong> Go to GitHub Profile → Contribution Settings → Check "Include private contributions"</p>
+  <p><strong>2. Make some repos public:</strong> Create public repositories with sample code in different languages</p>
+  <p><strong>3. Use manual stats below:</strong> The breakdown shows your actual professional language usage</p>
 </div>
 
 ---
