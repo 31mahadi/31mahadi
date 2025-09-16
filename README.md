@@ -123,8 +123,8 @@
 
 ### 📈 GitHub Statistics
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&exclude_repo=31mahadi" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
 ### 📊 Activity Graph
@@ -135,8 +135,8 @@
 ### 🏆 Profile Summary Cards
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=31mahadi&theme=radical&exclude_repo=31mahadi" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=31mahadi&theme=radical&exclude_repo=31mahadi" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Most Commit Language" />
 </div>
 
 ### 💻 Language Statistics
