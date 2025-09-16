@@ -116,15 +116,9 @@
 
 ## 📊 GitHub Contributions
 
-### 📅 Contribution Calendar
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=31mahadi&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&include_all_commits=true" alt="GitHub Streak Stats" />
-</div>
-
 ### 📈 GitHub Statistics
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
 ### 📊 Activity Graph
@@ -135,19 +129,9 @@
 ### 🏆 Profile Summary Cards
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Most Commit Language" />
 </div>
 
-### 💻 Language Statistics (Private Repo Compatible)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=10&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=My%20Languages&hide_progress=true" alt="Language Stats" />
-</div>
 
-### 📊 Language Usage Overview (Private Repo Compatible)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=Language%20Distribution&hide_progress=true" alt="Language Usage" />
-</div>
 
 ### 🎯 **Professional Language Expertise**
 <div align="center">
@@ -159,38 +143,19 @@
   <img src="https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Expert" />
 </div>
 
- ### 📈 **Language Usage Breakdown** (Based on Professional Experience)
+ ### 📈 **Dynamic Language Usage Breakdown** (Real-time from WakaTime)
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 45%" />
-        <br><small>Primary language for all projects</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TypeScript-30%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 30%" />
-        <br><small>Enterprise applications & APIs</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTML-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 15%" />
-        <br><small>Frontend development</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CSS-8%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 8%" />
-        <br><small>Styling & UI components</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/SQL-2%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL 2%" />
-        <br><small>Database queries & optimization</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Other-0%25-9E9E9E?style=for-the-badge&logo=code&logoColor=white" alt="Other 0%" />
-        <br><small>Configuration & scripts</small>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=8&custom_title=Language%20Usage%20Breakdown&cache_seconds=1800" alt="Dynamic Language Breakdown" />
+</div>
+
+<div align="center">
+  <h4>📊 Weekly Language Distribution</h4>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=6&custom_title=This%20Week%27s%20Languages&cache_seconds=1800" alt="Weekly Language Distribution" />
+</div>
+
+<div align="center">
+  <h4>📈 Monthly Language Trends</h4>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&custom_title=Monthly%20Language%20Usage&range=last_30_days&cache_seconds=1800" alt="Monthly Language Trends" />
 </div>
 
 ### 🚀 **Private Repository Language Statistics**
@@ -216,14 +181,6 @@
 <div align="center">
   <h4>📈 Monthly Coding Activity</h4>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=6&custom_title=Monthly%20Coding%20Time&range=last_30_days&cache_seconds=1800" alt="Monthly WakaTime Stats" />
-</div>
-
-### 🔧 **Private Repository Solution**
-<div align="center">
-  <h4>📝 To show language data from private repos:</h4>
-  <p><strong>1. Enable Private Contributions:</strong> Go to GitHub Profile → Contribution Settings → Check "Include private contributions"</p>
-  <p><strong>2. Set up WakaTime:</strong> Install WakaTime plugin in your IDE and make profile public</p>
-  <p><strong>3. Use manual stats below:</strong> The breakdown shows your actual professional language usage</p>
 </div>
 
 ---
