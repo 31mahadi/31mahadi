@@ -149,12 +149,10 @@
 </div>
 
 <div align="center">
-  <h4>📊 Weekly Language Distribution</h4>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=6&custom_title=This%20Week%27s%20Languages&cache_seconds=1800" alt="Weekly Language Distribution" />
 </div>
 
 <div align="center">
-  <h4>📈 Monthly Language Trends</h4>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&custom_title=Monthly%20Language%20Usage&range=last_30_days&cache_seconds=1800" alt="Monthly Language Trends" />
 </div>
 
