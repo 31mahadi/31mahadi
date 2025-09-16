@@ -156,16 +156,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&custom_title=Monthly%20Language%20Usage&range=last_30_days&cache_seconds=1800" alt="Monthly Language Trends" />
 </div>
 
-### 🚀 **Private Repository Language Statistics**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=10&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=My%20Language%20Usage&hide_progress=true" alt="Private Repo Language Stats" />
-</div>
-
-### 📈 **Alternative Language Visualization**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=Code%20Languages&hide_progress=true" alt="Alternative Language Stats" />
-</div>
-
 ### ⏱️ **WakaTime Integration** (Real-time Coding Activity)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&custom_title=Weekly%20Coding%20Time&cache_seconds=1800" alt="WakaTime Stats" />
