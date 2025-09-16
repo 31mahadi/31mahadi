@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/AG_Grid-FF6B35?style=for-the-badge&logo=ag-grid&logoColor=white" alt="AG Grid" />
+  <img src="https://img.shields.io/badge/Recharts-FF6B35?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts" />
 </div>
 
 ### ⚙️ Backend & APIs
@@ -44,35 +46,70 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Custom_Auth-FF6B35?style=for-the-badge&logo=key&logoColor=white" alt="Custom Auth" />
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" />
 </div>
 
 ### 🗄️ Databases & ORMs
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2" />
   <img src="https://img.shields.io/badge/AS400-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="AS400" />
-</div>
-
-### 🔧 ORMs & Data Management
-<div align="center">
   <img src="https://img.shields.io/badge/TypeORM-E535AB?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</div>
+
+### ☁️ Cloud & Infrastructure
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</div>
+
+### 🔐 Authentication & Backend Services
+<div align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauth&logoColor=white" alt="NextAuth.js" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" alt="Passport.js" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</div>
+
+### 🚀 AWS Services
+<div align="center">
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2" />
+  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" alt="EKS" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white" alt="SQS" />
+  <img src="https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=for-the-badge&logo=amazon-sns&logoColor=white" alt="SNS" />
+  <img src="https://img.shields.io/badge/Amazon_EventBridge-FF9900?style=for-the-badge&logo=amazon-eventbridge&logoColor=white" alt="EventBridge" />
+  <img src="https://img.shields.io/badge/Amazon_Kinesis-FF9900?style=for-the-badge&logo=amazon-kinesis&logoColor=white" alt="Kinesis" />
+  <img src="https://img.shields.io/badge/Amazon_Rekognition-FF9900?style=for-the-badge&logo=amazon-rekognition&logoColor=white" alt="Rekognition" />
+  <img src="https://img.shields.io/badge/EventBridge_Scheduler-FF9900?style=for-the-badge&logo=calendar&logoColor=white" alt="EventBridge Scheduler" />
 </div>
 
 ### 🧰 Development Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/AG_Grid-FF6B35?style=for-the-badge&logo=ag-grid&logoColor=white" alt="AG Grid" />
-  <img src="https://img.shields.io/badge/Recharts-FF6B35?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts" />
+  <img src="https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
+</div>
+
+### 📊 Project Management & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </div>
 
 ---
@@ -86,17 +123,17 @@
 
 ### 🔥 Daily Contribution Heatmap
 <div align="center">
-  <img src="https://github-readme-contributions.vercel.app/api?username=31mahadi&theme=radical&hide_border=true&background=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ### 📊 GitHub-Style Contribution Grid
 <div align="center">
-  <img src="https://github-readme-contributions.vercel.app/api?username=31mahadi&theme=github_dark&hide_border=true&background=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&show_icons=true" alt="GitHub Contributions Grid" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact" alt="Top Languages" />
 </div>
 
 ### 📊 Monthly Activity Overview
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=github-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff&area=true&area_color=00d4ff" alt="GitHub Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff" alt="GitHub Activity Graph" />
 </div>
 
 ### 📈 Statistics & Activity
