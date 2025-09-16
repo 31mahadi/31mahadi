@@ -116,42 +116,32 @@
 
 ## 📊 GitHub Contributions
 
-### 📅 Contribution Heatmap
+### 📅 Contribution Calendar
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=31mahadi&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
 </div>
 
-### 🔥 Daily Contribution Heatmap
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-### 📊 GitHub-Style Contribution Grid
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact" alt="Top Languages" />
-</div>
-
-### 📊 Monthly Activity Overview
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff" alt="GitHub Activity Graph" />
-</div>
-
-### 📈 Statistics & Activity
+### 📈 GitHub Statistics
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&exclude_repo=31mahadi" alt="Top Languages" />
 </div>
 
 ### 📊 Activity Graph
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff" alt="GitHub Activity Graph" />
 </div>
 
 ### 🏆 Profile Summary Cards
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=31mahadi&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=31mahadi&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=31mahadi&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=31mahadi&theme=radical&exclude_repo=31mahadi" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=31mahadi&theme=radical&exclude_repo=31mahadi" alt="Most Commit Language" />
+</div>
+
+### 💻 Language Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="WakaTime Stats" />
 </div>
 
 ---
