@@ -203,11 +203,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true&exclude_repo=31mahadi&custom_title=Code%20Languages&hide_progress=true" alt="Alternative Language Stats" />
 </div>
 
+### ⏱️ **WakaTime Integration** (Real-time Coding Activity)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&custom_title=Weekly%20Coding%20Time" alt="WakaTime Stats" />
+</div>
+
+<div align="center">
+  <h4>📊 WakaTime Language Breakdown</h4>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=10&custom_title=Language%20Usage%20This%20Week" alt="WakaTime Language Stats" />
+</div>
+
+<div align="center">
+  <h4>📈 Monthly Coding Activity</h4>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=6&custom_title=Monthly%20Coding%20Time&range=last_30_days" alt="Monthly WakaTime Stats" />
+</div>
+
 ### 🔧 **Private Repository Solution**
 <div align="center">
   <h4>📝 To show language data from private repos:</h4>
   <p><strong>1. Enable Private Contributions:</strong> Go to GitHub Profile → Contribution Settings → Check "Include private contributions"</p>
-  <p><strong>2. Make some repos public:</strong> Create public repositories with sample code in different languages</p>
+  <p><strong>2. Set up WakaTime:</strong> Install WakaTime plugin in your IDE and make profile public</p>
   <p><strong>3. Use manual stats below:</strong> The breakdown shows your actual professional language usage</p>
 </div>
 
