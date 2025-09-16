@@ -162,16 +162,28 @@
 </div>
 
 <div align="center">
+  <h4>📊 Language Usage This Week</h4>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=10&custom_title=Language%20Breakdown&cache_seconds=300" alt="WakaTime Language Stats" />
 </div>
 
 <div align="center">
+  <h4>📈 Monthly Coding Activity</h4>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=6&custom_title=Monthly%20Coding%20Time&range=last_30_days&cache_seconds=300" alt="Monthly WakaTime Stats" />
 </div>
 
 <div align="center">
-  <h4>🔧 Alternative WakaTime Stats</h4>
-  <img src="https://wakatime.com/share/@31mahadi/31mahadi.svg" alt="WakaTime Share" />
+  <h4>🔧 WakaTime Profile Stats</h4>
+  <img src="https://wakatime.com/badge/user/31mahadi.svg" alt="WakaTime Profile" />
+</div>
+
+<div align="center">
+  <h4>📊 WakaTime Language Stats</h4>
+  <img src="https://wakatime.com/badge/user/31mahadi/languages.svg" alt="WakaTime Languages" />
+</div>
+
+<div align="center">
+  <h4>🎯 WakaTime Weekly Stats</h4>
+  <img src="https://wakatime.com/badge/user/31mahadi/week.svg" alt="WakaTime Weekly" />
 </div>
 
 ---
