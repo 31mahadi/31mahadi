@@ -144,6 +144,15 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="WakaTime Stats" />
 </div>
 
+### 🎯 **My Primary Languages** (Based on Professional Experience)
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-89.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-75.2%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML-45.8%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-42.3%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/SQL-38.7%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
+
 ---
 
 ## 🚀 Professional Journey
