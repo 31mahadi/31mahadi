@@ -119,12 +119,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=31mahadi&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=00d4ff" alt="GitHub Streak Stats" />
 </div>
 
-### 📈 GitHub Statistics
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages" />
-</div>
-
 ### �� Activity Graph
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff" alt="GitHub Activity Graph" />
