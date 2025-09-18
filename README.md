@@ -114,12 +114,14 @@
 
 ---
 
-### �� Contribution Calendar
+### 📅 Contribution Calendar
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=31mahadi&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=00d4ff" alt="GitHub Streak Stats" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true" />
 </div>
 
-### �� Activity Graph
+
+### 📈 Activity Graph
+
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff" alt="GitHub Activity Graph" />
 </div>
@@ -168,19 +170,22 @@
 </div>
 
 <div align="center">
-  <h4>�� WakaTime Profile Stats</h4>
-  <img src="https://wakatime.com/badge/user/31mahadi.svg" alt="WakaTime Profile" />
+  <h3>📊 WakaTime Profile Stats</h3>
+  <img src="https://wakatime.com/badge/user/dc8d74bb-9354-41a8-a52d-b797ca8e31a6.svg" alt="WakaTime Profile" />
 </div>
 
+## ⏳ Weekly WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<!-- WakaTime Weekly Stats -->
 <div align="center">
-  <h4>📊 WakaTime Language Stats</h4>
-  <img src="https://wakatime.com/badge/user/31mahadi/languages.svg" alt="WakaTime Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=react-dark&hide_border=true&bg_color=0d1117" alt="WakaTime Stats" />
 </div>
 
-<div align="center">
-  <h4>🎯 WakaTime Weekly Stats</h4>
-  <img src="https://wakatime.com/badge/user/31mahadi/week.svg" alt="WakaTime Weekly" />
-</div>
+
 
 ---
 
