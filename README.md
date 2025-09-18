@@ -114,26 +114,28 @@
 
 ---
 
-## 📊 GitHub Contributions
+### �� Contribution Calendar
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=31mahadi&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=00d4ff" alt="GitHub Streak Stats" />
+</div>
 
 ### 📈 GitHub Statistics
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=31mahadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
-### 📊 Activity Graph
+### �� Activity Graph
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff" alt="GitHub Activity Graph" />
 </div>
 
-### 🏆 Profile Summary Cards
+### �� Profile Summary Cards
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=31mahadi&theme=radical&include_all_commits=true&count_private=true" alt="Profile Details" />
 </div>
 
-
-
-### 🎯 **Professional Language Expertise**
+### �� **Professional Language Expertise**
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Expert" />
   <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Expert" />
@@ -143,17 +145,17 @@
   <img src="https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Expert" />
 </div>
 
- ### 📈 **Dynamic Language Usage Breakdown** (Real-time from WakaTime)
+### 📈 **Dynamic Language Usage Breakdown** (Real-time from WakaTime)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=8&custom_title=Language%20Usage%20Breakdown&cache_seconds=1800" alt="Dynamic Language Breakdown" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=donut&langs_count=8&custom_title=Language%20Usage%20Breakdown&cache_seconds=300" alt="Dynamic Language Breakdown" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=6&custom_title=This%20Week%27s%20Languages&cache_seconds=1800" alt="Weekly Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=6&custom_title=This%20Week%27s%20Languages&cache_seconds=300" alt="Weekly Language Distribution" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&custom_title=Monthly%20Language%20Usage&range=last_30_days&cache_seconds=1800" alt="Monthly Language Trends" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=8&custom_title=Monthly%20Language%20Usage&range=last_30_days&cache_seconds=300" alt="Monthly Language Trends" />
 </div>
 
 ### ⏱️ **WakaTime Integration** (Real-time Coding Activity)
@@ -167,12 +169,12 @@
 </div>
 
 <div align="center">
-  <h4>📈 Monthly Coding Activity</h4>
+  <h4>�� Monthly Coding Activity</h4>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=31mahadi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact&langs_count=6&custom_title=Monthly%20Coding%20Time&range=last_30_days&cache_seconds=300" alt="Monthly WakaTime Stats" />
 </div>
 
 <div align="center">
-  <h4>🔧 WakaTime Profile Stats</h4>
+  <h4>�� WakaTime Profile Stats</h4>
   <img src="https://wakatime.com/badge/user/31mahadi.svg" alt="WakaTime Profile" />
 </div>
 
