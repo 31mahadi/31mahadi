@@ -114,12 +114,6 @@
 
 ---
 
-### 📅 Contribution Calendar
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=31mahadi&theme=react-dark&hide_border=true" />
-</div>
-
-
 ### 📈 Activity Graph
 
 <div align="center">
@@ -136,9 +130,10 @@
   <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Expert" />
   <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Expert" />
   <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Expert" />
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Expert" />
+  <img src="https://img.shields.io/badge/React-Inter-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Good" />
   <img src="https://img.shields.io/badge/NestJS-Expert-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Expert" />
   <img src="https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Expert" />
+  <img src="https://img.shields.io/badge/POSTGRES-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="POSTGRES Expert" />
 </div>
 
 ### 📈 **Dynamic Language Usage Breakdown** (Real-time from WakaTime)
@@ -382,7 +377,7 @@
 
 <div align="center">
   <h3>🚀 Specializing in Microservices Architecture & Scalable API Solutions</h3>
-  <p>Leading backend development teams while delivering robust, high-performance systems using JavaScript, TypeScript, NestJS, and ExpressJS</p>
+  <p>Driving backend development teams to build scalable, high-performance systems using JavaScript, TypeScript, NestJS.</p>
 </div>
 
 ---
@@ -401,6 +396,7 @@
 
 <div align="center">
   <p><strong>📍 Location:</strong> Nabinagar-1344, Savar, Dhaka, Bangladesh</p>
+   <p><strong>📍 Location:</strong> H-28, R-3 S-1, B-F | Aftabnagar, Dhaka</p>
   <p><strong>📱 Mobile:</strong> +8801303177267</p>
   <p><strong>📧 Email:</strong> 01.mahadi@gmail.com</p>
 </div>
